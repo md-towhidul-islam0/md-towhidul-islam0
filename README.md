@@ -50,7 +50,7 @@ Full-stack developer focused on building modern, high-performance web applicatio
 
 ### 📈 GitHub Stats
 
-<p align="center" classname="grid gap-5">
+<p align="center" classname="grid gap-5 h-[20px]">
   <img src="https://github-readme-stats.vercel.app/api?username=md-towhidul-islam0&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-towhidul-islam0&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
 </p>
