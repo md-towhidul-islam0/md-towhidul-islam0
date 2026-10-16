@@ -1,4 +1,4 @@
-# Hi there, I'm [Md Towhidul Islam] 👋
+# Hi there, I'm Md Towhidul Islam 👋
 
 Full-stack developer focused on building modern, high-performance web applications with clean user interfaces. I turn ideas into functional digital products through hands-on building and continuous problem-solving.
 
@@ -51,8 +51,8 @@ Full-stack developer focused on building modern, high-performance web applicatio
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-towhidul-islam0&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-towhidul-islam0&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
 </p>
 
 ---
