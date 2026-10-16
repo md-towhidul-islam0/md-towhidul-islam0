@@ -40,7 +40,7 @@ Full-stack developer focused on building modern, high-performance web applicatio
 
 ### 🌟 Featured Project
 
-#### 🛒 **[BazarDor — Daily Market Price Tracker](https://github.com/your-username/bazardor)**
+#### 🛒 **[BazarDor — Daily Market Price Tracker](https://bazar-dor-wheat.vercel.app/)**
 > A responsive full-stack web application designed to help users in Bangladesh track daily commodity prices and analyze price trends across local markets.
 
 - **Stack:** Next.js, React, TypeScript, Tailwind CSS, Better Auth, MongoDB, Vercel
@@ -59,6 +59,6 @@ Full-stack developer focused on building modern, high-performance web applicatio
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-towhidul-islam0)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:towhidislam3489@gmail.com)
