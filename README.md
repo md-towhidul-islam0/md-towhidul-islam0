@@ -69,6 +69,9 @@ I'm a passionate full-stack web developer and competitive programmer based in Ba
   <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth" />
   <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,py,html,css,nextjs,react,tailwind,mongodb,nodejs,figma,git,vercel" />
+</p>
 
 ### 🛠️ Tools, Workflow & Deployment
 <p align="left">
