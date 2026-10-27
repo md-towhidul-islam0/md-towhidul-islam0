@@ -10,6 +10,7 @@
   </a>
 </p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="https://linkedin.com/in/md-towhidul-islam0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -50,12 +51,17 @@ I'm a passionate full-stack web developer and competitive programmer based in Ba
 
 ### 🎨 UI Components & Design Systems
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=shadcn,figma" /> &nbsp; *(HeroUI & DaisyUI)*
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white" alt="HeroUI" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0E2D?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ### ⚙️ Backend, Database & Authentication
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" /> &nbsp; *(Better Auth & REST APIs)*
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+  <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
 
 ### 🛠️ Tools & Deployment
