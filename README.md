@@ -1,131 +1,109 @@
-# Hi 👋, I'm Md Towhidul Islam
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:38BDF8&height=220&section=header&text=Md%20Towhidul%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Competitive%20Programmer&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
+</p>
 
-[![Readme Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=false&vcenter=false&width=500&lines=Full-Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript;Competitive+Programmer+(C%2B%2B))](https://git.io/typing-svg)
+<!-- Typing Animation Header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Full-Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript;Competitive+Programmer+(C%2B%2B);Building+Scalable+%26+Clean+Web+Apps" alt="Readme Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/md-towhidul-islam0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:towhidislam3489@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://your-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate full-stack developer focused on building modern, high-performance web applications with clean user interfaces. I turn ideas into functional digital products through hands-on building and continuous problem-solving.
+I'm a passionate full-stack web developer and competitive programmer based in Bangladesh. I specialize in building modern, high-performance web applications with clean UI and resilient backends. I thrive on practical development—learning continuously by building real products and solving core algorithmic challenges.
 
-- 🔭 **Currently Building:** Modern web apps using **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.
-- 🛠️ **Backend & Services:** Building lean APIs and services with **Node.js**, **Better Auth**, and **MongoDB**.
-- 🎨 **Design & Workflow:** Designing UI layouts in **Figma** and automating deployments on **Vercel**.
-- 🧠 **Problem Solving:** Practicing competitive programming in **C++** to keep **DSA & problem-solving** skills sharp.
-- 💡 **Learning Philosophy:** *Build real projects first, read documentation continuously.*
+* 🔭 **Currently Building:** Modern, dynamic web applications using **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.
+* 🛠️ **Backend & APIs:** Designing lean APIs & authentication pipelines using **Node.js**, **Better Auth**, and **MongoDB**.
+* 🎨 **Design & Deployment:** Crafting intuitive layouts in **Figma** and automating zero-config deployments on **Vercel**.
+* 🧠 **Problem Solving:** Practicing competitive programming in **C++** to keep my **DSA & problem-solving** skills sharp.
+* 💡 **Philosophy:** *Build real projects first, read documentation continuously.*
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Skills
 
-### **Frontend & UI**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0E2D?style=for-the-badge&logo=daisyui&logoColor=white)
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  
+  <br />
 
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  <!-- Frontend & UI -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0E2D?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
 
-### **Languages & Problem Solving**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  <br />
 
-### **Design & Workflow**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  <!-- Backend, Auth & DB -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth" />
+
+  <br />
+
+  <!-- Tools & Workflow -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
 ## 🌟 Featured Project
 
-### 🛒 **[BazarDor — Daily Market Price Tracker](https://bazar-dor-wheat.vercel.app/)**
-# 🛒 বাজার দর (BazarDor)
+### 🛒 [BazarDor (বাজার দর) — Daily Market Price Tracker](https://bazar-dor-wheat.vercel.app/)
 
-### Daily Market Price Tracker for Bangladesh 🇧🇩
+> **A responsive web app tracking daily essential market commodity prices across Bangladesh 🇧🇩**
 
-**বাজার দর** is a responsive web application that helps users explore daily market prices of essential products in Bangladesh. It provides product-wise price information, daily price changes, category-based browsing, and detailed market price comparisons through a clean and user-friendly interface.
+<br/>
 
+#### ✨ Highlights & Features
+- 📊 **Daily Price Tracking:** Real-time visibility of current rates, previous rates, and percentage shifts.
+- 📈 **Market Trends:** Dedicated feeds for products experiencing rapid price increases or decreases.
+- 🛍️ **Smart Browsing:** Category-based filters with ascending/descending price sorting.
+- 🔎 **Price Analytics:** Highlights minimum, maximum, and average prices alongside market-to-market comparisons.
+- 🔐 **Secure Authentication:** Integrated email/password, Google, and GitHub login using **Better Auth**.
+- 📱 **Adaptive UI:** Responsive design with scrolling ticker alerts, toast notifications, and protected routes.
 
-
----
-
-## ✨ Key Features
-
-- **📊 Daily Price Tracking:** View today's prices, previous prices, and percentage changes for essential products.
-- **📈 Price Trend Sections:** Explore products with increasing and decreasing prices through dedicated sections.
-- **🛍️ Product Categories:** Browse products by category and sort them by price in ascending or descending order.
-- **🔎 Product Details:** View product information, minimum price, maximum price, average price, and market-wise price comparisons.
-- **🔐 Secure Authentication:** Sign up and sign in using email and password, Google, or GitHub with Better Auth.
-- **📱 Fully Responsive Design:** Optimized layouts for mobile phones, tablets, and desktop devices.
-- **⚡ Interactive UI:** Includes a scrolling price ticker, product cards, loading states, and toast notifications.
-- **🧭 Protected Routes:** Restrict access to product details for authenticated users.
+#### 🛠️ Built With
+`Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Better Auth` • `MongoDB` • `Vercel`
 
 ---
 
-## 🛠️ Technologies Used
+## 📊 GitHub Analytics & Activity
 
-| Technology | Purpose |
-|---|---|
-| Next.js | React framework and routing |
-| React | Building reusable UI components |
-| TypeScript | Type-safe development |
-| Tailwind CSS | Responsive styling |
-| Better Auth | Authentication and session management |
-| MongoDB | Database integration, if configured |
-| JavaScript / ES6+ | Application logic |
-| Git & GitHub | Version control and project hosting |
-| Vercel | Deployment |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-towhidul-islam0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-towhidul-islam0&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-towhidul-islam0&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+</p>
 
 ---
 
-
-## 📂 Project Overview
-
-BazarDor provides a simple way to explore essential product prices and understand daily market movements.
-
-- **Home Page:** Highlights rising prices, falling prices, and all available products.
-- **Category Pages:** Display category-specific products with sorting options.
-- **Product Details:** Present price summaries and market-wise price information.
-- **Authentication Pages:** Allow users to register and sign in.
-- **Responsive Navigation:** Provides category links, authentication controls, and a live-style price ticker.
-
----
-
-## 🎯 Project Goals
-
-- Make essential product prices easier to explore.
-- Present daily price changes in a clear and understandable format.
-- Help users compare prices across different markets.
-- Provide a responsive and accessible browsing experience.
-- Practice modern web development using Next.js, TypeScript, and authentication.
-
----
-
-## ⚠️ Disclaimer
-
-Market prices displayed in BazarDor are for informational purposes only. Actual prices may vary depending on location, market conditions, product quality, and availability.
-
-
----
-
-## 📊 GitHub Stats
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=md-towhidul-islam0&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-towhidul-islam0&layout=compact&theme=tokyonight&hide=html,css) |
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-towhidul-islam0)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:towhidislam3489@gmail.com)
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=md-towhidul-islam0&style=flat-square&color=blue)
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-towhidul-islam0&style=flat-square&color=007ACC" alt="Profile Views" />
+</p>
