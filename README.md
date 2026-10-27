@@ -53,4 +53,17 @@ I'm a passionate full-stack developer focused on building modern, high-performan
 ## 📊 GitHub Stats
 
 | GitHub Stats | Most Used Languages |
-| :---: | :---
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=md-towhidul-islam0&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-towhidul-islam0&layout=compact&theme=tokyonight&hide=html,css) |
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-towhidul-islam0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:towhidislam3489@gmail.com)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=md-towhidul-islam0&style=flat-square&color=blue)
