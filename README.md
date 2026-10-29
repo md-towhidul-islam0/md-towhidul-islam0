@@ -104,7 +104,7 @@ I'm a passionate full-stack web developer and competitive programmer based in Ba
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-towhidul-islam0&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=md-towhidul-islam0&theme=tokyonight" width="100%" alt="GitHub Summary Card" />
 </p>
 
 <p align="center">
