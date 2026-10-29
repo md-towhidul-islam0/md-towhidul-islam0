@@ -95,8 +95,8 @@ I'm a passionate full-stack web developer and competitive programmer based in Ba
 ## 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-towhidul-islam0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-towhidul-islam0&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=md-towhidul-islam0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=md-towhidul-islam0&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
