@@ -104,10 +104,6 @@ I'm a passionate full-stack web developer and competitive programmer based in Ba
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=md-towhidul-islam0&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
   <i>💻 Consistency is the key to growth — learning, building, and improving every day.</i>
 </p>
 
