@@ -95,12 +95,20 @@ I'm a passionate full-stack web developer and competitive programmer based in Ba
 ## 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-towhidul-islam0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-towhidul-islam0&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-towhidul-islam0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-towhidul-islam0&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-towhidul-islam0&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=md-towhidul-islam0&theme=tokyonight&hide_border=true&border_radius=10" width="80%" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-towhidul-islam0&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <i>💻 Consistency is the key to growth — learning, building, and improving every day.</i>
 </p>
 
 ---
